@@ -1,0 +1,24 @@
+# this is a comment
+
+name: Kirill
+
+names:
+    - Kirill
+    - Artom
+    - Kot
+
+pound_sign: "#"
+
+book:
+    author: Joe Buck
+    publisher: random house
+
+truth: yes
+
+another_truth: True
+
+more_truth: true
+
+false: no
+
+string_val: "This is quote"

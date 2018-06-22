@@ -1,0 +1,5 @@
+property:
+  jms:
+    username: JMS username
+    password: somepass
+    url: someUrl
